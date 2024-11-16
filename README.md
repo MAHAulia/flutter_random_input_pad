@@ -121,8 +121,10 @@ If you’d like to support the development of this package, you can
 or support by scanning the QR code via  
 ☕️ [Saweria](https://saweria.co/overlays/qr?streamKey=54dc04b8045bb0355cde915ab1bb85b5&topLabel=MAHA&bottomLabel=Buy+Me+A+Coffe&backgroundColor=%232b9dfaFF&barcodeColor=%23000&username=maha).
 
-<!-- QR Code image for Saweria -->
-<img src="https://saweria.co/overlays/qr?streamKey=54dc04b8045bb0355cde915ab1bb85b5&topLabel=MAHA&bottomLabel=Buy+Me+A+Coffe&backgroundColor=%232b9dfaFF&barcodeColor=%23000&username=maha" alt="Support via Saweria" width="150" height="150"/>
+<!-- Displaying the QR code image -->
+<p align="center">
+  <img src="https://saweria.co/overlays/qr?streamKey=54dc04b8045bb0355cde915ab1bb85b5&topLabel=MAHA&bottomLabel=Buy+Me+A+Coffe&backgroundColor=%232b9dfaFF&barcodeColor=%23000&username=maha" alt="Support via Saweria" width="150" height="150"/>
+</p>
 
 ## License
 
