@@ -1,4 +1,4 @@
-## 0.0.1
+## 0.0.2
 
 * Initial release of the `RandomInputPad` package.
 * Added a customizable PIN input pad widget with random digit arrangement.

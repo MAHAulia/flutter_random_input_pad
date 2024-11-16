@@ -1,6 +1,6 @@
 name: random_input_pad
 description: "Random input pad"
-version: 0.0.1
+version: 0.0.2
 homepage: "https://github.com/MAHAulia/flutter_random_input_pad"
 
 environment:
